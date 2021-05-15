@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+
+body{
+    background-color: black;
+    color: white ;
+    font-size: 16px;
+}
+
+p{
+    text-align: center;
+}
+
+
+/* ------------------main choices---------------------- */
+h1{
+    text-align: center;
+    margin-bottom: 10vh;
+}
+
+.heading2{
+    text-align: center;
+    
+}
+
+
+#confirmationButton {
+    text-align: center;
+}
+
+#playerContainer{
+    margin: 5vh 10vw 5vh 10vw ;
+}
+
+/*--------------- scoreboard ------------*/
+.scorebox{
+    text-align: center;
+}
+
+.scoreboard{
+    margin: 5vh 20vw 5vh 20vw;
+}
+
+.scoreNumber {
+    font-size: 3rem;
+}
+
+.scoreboardInfo{
+    font-size: 1.5rem;
+}
+
+/* Highlight selected option */
+
+/* Who wins */
+
+#winner{
+    font-size: 3rem;
+}
+
+.whowins{
+    color: greenyellow;
+}
